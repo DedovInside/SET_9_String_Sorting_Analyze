@@ -1,0 +1,21 @@
+# Compiled Object files
+*.o
+*.obj
+*.exe
+
+# Build directories
+/build/
+/cmake-build-debug/
+/cmake-build-release/
+
+# IDE-specific files
+/.idea/
+/.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
